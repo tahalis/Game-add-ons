@@ -1,0 +1,8 @@
+[!] DUYURU =======================================================================
+Weapon Pack'ý Arþivin içindeki dizinleri panelinizde modu kurduðunuz dizinlerin içerisine atmanýz gerekmektedir. Eðer farklý bir konuma kurmak istiyorsanýz new_weapons.ini içeriðini deðiþtirmeniz gerekmektedir.
+
+KURULUM : 
+
+1. Arþiv içerisindeki klasörleri panelinizde konumlandýrýn.
+2. new_weapons.ini dosyasýný Addons/amxmodx/config içerisine yükleyin.
+3. sma dosyasýný derleyip plugins.ini ye sonu .amxx uzantýsý ile kaydediniz. 

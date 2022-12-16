@@ -1,0 +1,1 @@
+Bu klasörü Aynen Yükleyin Ve Kesinlikle SÝLMEYÝN.
